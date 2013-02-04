@@ -1,5 +1,5 @@
-from setuptools import setup, find_packages
-import sys, os
+from setuptools import setup
+import os
 
 from rst2beamer import __version__
 
